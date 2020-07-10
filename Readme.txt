@@ -9,3 +9,5 @@ This is aproperty price production for Boston, Massachusetts by using data as sm
 ---------------------------------------------------------------------------------------------------------------
 UPDATE: I uploaded a presentation explanation of the same. Link -> https://www.youtube.com/watch?v=M3kHsJiEiW8
 ---------------------------------------------------------------------------------------------------------------
+
+<img src = "https://coursera-certificate-images.s3.amazonaws.com/DN5FFUSYGM3J" >

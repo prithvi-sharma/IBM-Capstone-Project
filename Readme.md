@@ -7,7 +7,7 @@ IBM Capstone Project for Property price prediction with minimal data.
 This is aproperty price production for Boston, Massachusetts by using data as small as 
 550 total rows from which only 80% were used for the training.
 
-**The certificate: - 
+The certificate: - 
 
 <img src ="https://raw.githubusercontent.com/prithvi-sharma/IBM-Capstone-Project/master/Capstone%20Project%20Certificate.jpg" width="65%" height="65%">
 

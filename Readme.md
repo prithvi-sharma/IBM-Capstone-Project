@@ -12,5 +12,5 @@ The certificate: -
 <img src ="https://raw.githubusercontent.com/prithvi-sharma/IBM-Capstone-Project/master/Capstone%20Project%20Certificate.jpg" width="65%" height="65%">
 
 _______________________________________________________________________________________________________________
-*UPDATE*:  I uploaded a presentation explanation of the same. Link -> https://www.youtube.com/watch?v=M3kHsJiEiW8
+*UPDATE*:  I uploaded a presentation explanation of the same. Link -> https://youtu.be/xbqwkHTbFbg
 _______________________________________________________________________________________________________________

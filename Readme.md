@@ -1,4 +1,6 @@
-# IBM Capstone Project for Property price prediction with minimal data.
+# IBM Capstone Project :- Property price prediction with minimal data.
+
+<img src="/Images/Boston.jpg" width="100%">
 
 --This is a model made for prediction of Property with help of UCI Machine Learning Repository Datasets. 
 

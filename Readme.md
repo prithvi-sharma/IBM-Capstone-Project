@@ -15,7 +15,7 @@ This is aproperty price production for Boston, Massachusetts by using data as sm
 <img src ="https://raw.githubusercontent.com/prithvi-sharma/IBM-Capstone-Project/master/Capstone%20Project%20Certificate.jpg" width="65%" height="65%">
 <hr>
 
-# Explanation :-
+# Presentation/Explanation :-
 
 I uploaded a presentation explanation of the same.
 

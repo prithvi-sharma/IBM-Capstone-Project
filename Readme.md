@@ -10,10 +10,14 @@ This is aproperty price production for Boston, Massachusetts by using data as sm
 550 total rows from which only 80% were used for the training.
 <hr>
 
-## Certificate: - 
+# Certificate: - 
 
 <img src ="https://raw.githubusercontent.com/prithvi-sharma/IBM-Capstone-Project/master/Capstone%20Project%20Certificate.jpg" width="65%" height="65%">
+<hr>
 
-_______________________________________________________________________________________________________________
-*UPDATE*:  I uploaded a presentation explanation of the same. Link -> https://www.youtube.com/watch?v=M3kHsJiEiW8
-_______________________________________________________________________________________________________________
+# Explanation :-
+
+I uploaded a presentation explanation of the same. Link -> https://www.youtube.com/watch?v=M3kHsJiEiW8
+<hr>
+
+# Thanks for reading!

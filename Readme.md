@@ -17,7 +17,7 @@ This is aproperty price production for Boston, Massachusetts by using data as sm
 
 # Presentation/Explanation :-
 
-I uploaded a presentation explanation of the same.
+I have uploaded a presentation explanation of the same.
 
 Link -> https://www.youtube.com/watch?v=M3kHsJiEiW8
 <hr>

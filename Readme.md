@@ -8,6 +8,8 @@
 
 This is aproperty price production for Boston, Massachusetts by using data as small as 
 550 total rows from which only 80% were used for the training.
+
+The final model predicts an estimate prize of real estate according to any custom input.
 <hr>
 
 # Certificate: - 

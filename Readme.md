@@ -21,9 +21,7 @@ The final model predicts an estimate prize of real estate according to any custo
 
 I have uploaded a presentation explanation of the same.
 
-
 Link -> https://www.youtube.com/watch?v=M3kHsJiEiW8
-
 <hr>
 
 # Thanks for reading!
